@@ -11,6 +11,8 @@ supports opening several child windows.
 
 thriving for a minimal footprint, ease of use, clean and compatible code.
 
+### The link to the opinionated pop-out installation is here <a href= "https://www.npmjs.com/package/angular-opinionated-popout-window"> Angular Opinionated Window</a>
+
 ## Installation
 Install through npm:
 ```
